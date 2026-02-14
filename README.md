@@ -3,6 +3,8 @@
 ## Project Overview
 A comprehensive machine learning project that predicts customer churn using classification models including Logistic Regression, Decision Trees, and Random Forest. The project achieves **84% accuracy** through hyperparameter tuning and handles class imbalance using SMOTE technique.
 
+
+
 ## 📊 Key Achievements
 
 - ✅ **84% Accuracy** with Random Forest after GridSearchCV hyperparameter tuning
