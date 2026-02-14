@@ -248,6 +248,11 @@ df['high_risk'] = ((df['contract_type'] == 'Month-to-Month') &
 - **F1-Score:** Harmonic mean of precision and recall
 - **ROC-AUC:** Model's ability to distinguish between classes
 
+## Results
+
+<img width="5966" height="3581" alt="churn_analysis_visualizations" src="https://github.com/user-attachments/assets/035fcf72-2e9c-4441-aa59-6c2093fb92fd" />
+<img width="4655" height="2120" alt="detailed_analysis_plots" src="https://github.com/user-attachments/assets/25c035a2-972b-40c6-ab38-dea72b9a4245" />
+
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
